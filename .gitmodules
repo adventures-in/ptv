@@ -1,0 +1,6 @@
+[submodule "ptv_clone"]
+	path = ptv_clone
+	url = git@github.com:nickmeinhold/ptv_clone.git
+[submodule "ptv_api_client"]
+	path = ptv_api_client
+	url = git@github.com:nickmeinhold/ptv_api_client.git
