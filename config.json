@@ -1,0 +1,5 @@
+{
+    "pubName" : "ptv_api_client",
+    "pubVersion" : "0.0.1",
+    "pubDescription" : "OpenAPI API client for the Public Transport Victoria public API"
+}
